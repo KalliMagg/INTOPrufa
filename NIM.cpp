@@ -67,7 +67,7 @@ void spila( )
 	cout << endl << endl;
 	cout << "Veljum med hve margar hrugur vid spilum. " << endl;
 	cout << "Yttu a einhvern lykil: " << endl;
-
+        cout << "Breyting hja Kalla" << endl;
 	srand( time( 0 ) );	
 
 	hrugufjoldi = ( (rand( ) % 8 ) + 2 );
@@ -229,4 +229,4 @@ int samtals( int* hruga )
 	}
 
 	return samtala;
-}
+	}
