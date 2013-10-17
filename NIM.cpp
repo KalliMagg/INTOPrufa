@@ -69,8 +69,8 @@ void spila( )
 	cout << "Yttu a einhvern lykil: " << endl;
         cout << "Breyting hja Kalla" << endl;
 	cout << "Stefan kann lika ad breyta i Vim" << endl;
-	srand( time( 0 ) );	
-	
+	cout << "Kristjan er ekkert verri en Stebbi og Kalli" << endl;	
+		
 
 
 	hrugufjoldi = ( (rand( ) % 8 ) + 2 );
