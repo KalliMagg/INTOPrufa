@@ -68,7 +68,10 @@ void spila( )
 	cout << "Veljum med hve margar hrugur vid spilum. " << endl;
 	cout << "Yttu a einhvern lykil: " << endl;
         cout << "Breyting hja Kalla" << endl;
+	cout << "Stefan kann lika ad breyta i Vim" << endl;
 	srand( time( 0 ) );	
+	
+
 
 	hrugufjoldi = ( (rand( ) % 8 ) + 2 );
 	cout << "Vid spilum med " << hrugufjoldi << " hrugur. " << endl;
